@@ -1,5 +1,6 @@
  Hello World, I’m Evelyn 👋
-![tenor](https://user-images.githubusercontent.com/97476504/188252403-b733d207-8e60-4a41-9823-dea48f0e42f7.gif)
+<img align="right" alt="GIF" width="500px" height="320px"
+src="https://user-images.githubusercontent.com/97476504/188252403-b733d207-8e60-4a41-9823-dea48f0e42f7.gif" /> 
 
  
 I am currently a junior at Eastern Washington University 
@@ -9,7 +10,7 @@ I am currently a junior at Eastern Washington University
 - 💬 Ask me about soft skills
 - 📫 How to reach me: Ebarragan5@ewu.edu
 - 😁 Pronouns: She/Her
-- ⚡️Fun Fact: My favorite hobby is playing video games on my xbox series x
+- ⚡️Fun Fact: My favorite hobby is playing video games
 
 ### Languages:
 
