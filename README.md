@@ -5,8 +5,8 @@ src="https://user-images.githubusercontent.com/97476504/188252403-b733d207-8e60-
  
 I am currently a junior at Eastern Washington University 
 - 🔭 I'm currently working on creating my first website
-- 🌱 I’m currently learning algorithms
-- 🤔 I'm looking for help with algorithms
+- 🌱 I’m currently learning Data Mining 
+- 🤔 I'm looking for help with Operating Systems
 - 💬 Ask me about soft skills
 - 📫 How to reach me: Ebarragan5@ewu.edu
 - 😁 Pronouns: She/Her
@@ -17,6 +17,7 @@ I am currently a junior at Eastern Washington University
 <img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> 
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <br />
 <br />
 <br />
