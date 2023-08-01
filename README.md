@@ -8,7 +8,7 @@ I am currently a junior at Eastern Washington University
 - 🌱 I’m currently learning Data Mining 
 - 🤔 I'm looking for help with Operating Systems
 - 💬 Ask me about soft skills
-- 📫 How to reach me: Ebarragan5@ewu.edu
+- 📫 How to reach me: Barragan2020eb@outlook.com
 - 😁 Pronouns: She/Her
 - ⚡️Fun Fact: My favorite hobby is playing video games
 
