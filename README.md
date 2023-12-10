@@ -3,7 +3,7 @@
 src="https://user-images.githubusercontent.com/97476504/188252403-b733d207-8e60-4a41-9823-dea48f0e42f7.gif" /> 
 
  
-I am currently a junior at Eastern Washington University 
+I am currently a senior at Eastern Washington University 
 - 🔭 I'm currently working on creating my first website
 - 🌱 I’m currently learning Data Mining 
 - 🤔 I'm looking for help with Operating Systems
